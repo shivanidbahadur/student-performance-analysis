@@ -1,7 +1,7 @@
 # Student Performance Analysis
 Overview
 
-This project analyses a student perfomane dataset to understand the influence of various factors on student marks
+This project analyzes a student perfomance dataset to understand the influence of various factors on student marks
 
 Tools Used:
 Python
