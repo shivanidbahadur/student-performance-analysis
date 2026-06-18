@@ -11,6 +11,7 @@ Matplotlib
 Dataset:
 The project uses the StudentsPerformance.csv dataset, which contains information about 1000 students:
 Gender
+Race/ethnicity
 Parental level of education
 Lunch type
 Test preparation course
