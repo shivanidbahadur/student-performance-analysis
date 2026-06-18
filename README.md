@@ -8,6 +8,17 @@ Python
 Pandas
 Matplotlib
 
+Dataset:
+The project uses the StudentsPerformance.csv dataset, which contains information about 1000 students:
+Gender
+Parental level of education
+Lunch type
+Test preparation course
+Math score
+Reading score
+Writing score
+
+
 Data Preparation:
 Before the analysis, the dataset was explored and checked for:
 Missing values
@@ -33,5 +44,6 @@ Reading and writing scores were strongly related
 
 Files Included:
 analysis.py : Python code for the analysis
+StudentsPerformance.csv – Dataset used for the project
 Chart images : Visualizations generated during the project
 
